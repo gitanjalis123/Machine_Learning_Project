@@ -5,7 +5,7 @@ The project is made for ISE in RIT Final Year CSE Department
 The name of project is Sales Prediction from Social Network Ads.
 For this project we use Social Network Ads dataset from Kaggle website : https://www.kaggle.com/rakeshrau/social-network-ads
 
-The dataset provides a categorical dataset to determine whether a user purchased a particular product
+The dataset provides a categorical dataset to determine whether a user purchased a particular product.
 
 Problem Statement :
 The objective of this analysis is to predict whether a person will buy a product displayed on a social network ad or not, given their age, gender and salary and to compare the accuracy of different classification algorithms.
